@@ -4,9 +4,9 @@ This package receives messages from AMQP and uploads them to mysql compatible da
 
 
 ## Development and installation
-All of the configuration variables are handled by suppling an env var, or directly changing the `config.py` file.
+All of the configuration variables are handled by supplying an env var, or directly changing the `config.py` file.
 
-Env is controlled through `pipenv`, packaging is done through `easy_install`.
+Env is controlled through `pipenv`, packaging is done with `easy_install`.
 
 
 ## Contributing
